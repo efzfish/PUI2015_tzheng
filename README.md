@@ -1,3 +1,3 @@
 # PUI2015_tzheng
-![Alt text](PUI2015.png)
+![Alt text](bash_profile.png)
 ![Alt text](bash_profile.png)
